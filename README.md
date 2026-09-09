@@ -36,9 +36,17 @@ As the project manager, I was responsible for coordinating the team's progress w
 ### Technical Contributions
 
 - Finalized the problem statement and objective tree
-- Used **Granta Edupack** for material analysis
+- Used **Granta EduPack** for material analysis
 - Developed and contributed to the weighted material-selection matrix
 - Contributed to discussions surrounding material and design considerations
+
+## Tools & Technologies
+
+- **Granta EduPack** - Material selection and analysis
+- **Autodesk Inventor** - 3D design and modelling
+- **Microsoft Excel** - Data analysis and weighted decision matrix
+- **Gantt Chart** - Project planning and scheduling
+
 
 
 
