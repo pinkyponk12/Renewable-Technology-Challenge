@@ -48,7 +48,7 @@ As the project manager, I was responsible for coordinating the team's progress w
 - Developed and contributed to the weighted material-selection matrix
 - Contributed to discussions surrounding material and design considerations
 
-![Material Selection](images/material_selction.png)
+![Material Selection](images/material_selection.png)
 
 *Material Selection Analysis Using Granta EduPack*
 
