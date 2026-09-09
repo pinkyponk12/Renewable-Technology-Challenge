@@ -47,7 +47,20 @@ As the project manager, I was responsible for coordinating the team's progress w
 - **Microsoft Excel** - Data analysis and weighted decision matrix
 - **Gantt Chart** - Project planning and scheduling
 
+## Skills Acquired
 
+### Technical Skills
 
+- Materials Selection
+- Engineering Design
+- 3D Modelling
+
+### Professional Skills
+
+- Project Management
+- Team Collaboration
+- Time Management
+- Oral Communication
+- Task Coordination
 
 
