@@ -23,7 +23,7 @@ Material selection was evaluated using **Granta EduPack** and a weighted decisio
 
 ![Final Wind Turbine Blade Design](images/wind_turbine_blade.png)
 
-*Final wind turbine blade design
+*Final turbine blade design*
 
 ## My Role - Project Manager
 
