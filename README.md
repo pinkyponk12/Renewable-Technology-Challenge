@@ -21,6 +21,10 @@ The material was selected based on:
 
 Material selection was evaluated using **Granta EduPack** and a weighted decision matrix.
 
+![Final Wind Turbine Blade Design](images/wind_turbine_blade.png)
+
+*Final wind turbine blade design
+
 ## My Role - Project Manager
 
 As the project manager, I was responsible for coordinating the team's progress while also contributing to key technical decisions.
