@@ -63,4 +63,11 @@ As the project manager, I was responsible for coordinating the team's progress w
 - Oral Communication
 - Task Coordination
 
+## Key Takeaways
+
+This project strengthened my understanding of both engineering design and project management. I learned the importance of addressing team challenges early through clear and proactive communication.
+
+I also learned how important it is to align design priorities with the project's primary objective. Using Granta EduPack and a weighted decision matrix helped me understand how engineering decisions can involve balancing environmental, material, and performance requirements.
+
+Overall, the project strengthened my ability to combine **technical analysis, project coordination, and strategic decision-making** when working on an engineering design problem.
 
