@@ -8,3 +8,16 @@ This project was centered around developing an environmentally sustainable wind 
 - Meet Swedish building and safety regulations
 - Maintain blade deflection below 10mm
 
+## Final Design
+
+Our team selected **high-carbon steel** as the primary material for the wind turbine blade.
+
+The material was selected based on:
+- Recyclability
+- High tensile strength
+- High melting point
+- Excellent fracture toughness
+- Strong fatigue resistance
+
+Material selection was evaluated using **Granta EduPack** and a weighted decision matrix.
+
