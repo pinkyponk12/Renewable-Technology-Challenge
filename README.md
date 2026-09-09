@@ -23,7 +23,7 @@ Material selection was evaluated using **Granta EduPack** and a weighted decisio
 
 ![Final Wind Turbine Blade Design](images/wind_turbine_blade.png)
 
-*Final turbine blade design*
+*Final Turbine Blade Design*
 
 ## My Role - Project Manager
 
@@ -37,12 +37,20 @@ As the project manager, I was responsible for coordinating the team's progress w
 - Provided support and clarification to team members
 - Created a **Gantt chart** to organize project tasks and deadlines
 
+![Gantt Chart](images/gantt_chart.png)
+
+*Initial Gantt Chart*
+
 ### Technical Contributions
 
 - Finalized the problem statement and objective tree
 - Used **Granta EduPack** for material analysis
 - Developed and contributed to the weighted material-selection matrix
 - Contributed to discussions surrounding material and design considerations
+
+![Material Selection](images/material_selction.png)
+
+*Material Selection Analysis Using Granta EduPack*
 
 ## Tools & Technologies
 
