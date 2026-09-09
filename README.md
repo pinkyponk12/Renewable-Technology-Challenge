@@ -21,3 +21,25 @@ The material was selected based on:
 
 Material selection was evaluated using **Granta EduPack** and a weighted decision matrix.
 
+## My Role - Project Manager
+
+As the project manager, I was responsible for coordinating the team's progress while also contributing to key technical decisions.
+
+### Managerial Contributions
+
+- Oversaw the overall progress and operation of the project
+- Divided work among team members and established clear responsibilites
+- Conducted regular check-ins to ensure tasks were completed correctly and on time
+- Provided support and clarification to team members
+- Created a **Gantt chart** to organize project tasks and deadlines
+
+### Technical Contributions
+
+- Finalized the problem statement and objective tree
+- Used **Granta Edupack** for material analysis
+- Developed and contributed to the weighted material-selection matrix
+- Contributed to discussions surrounding material and design considerations
+
+
+
+
